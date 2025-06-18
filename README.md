@@ -1,4 +1,4 @@
-# subermarkt_bi
+# subermarkt_ bower bi
 subermarkt sales analysis
 ## 📊 Overview
 This project analyzes sales data from a supermarket using *Microsoft Excel* and *Power BI*. The goal is to uncover sales trends, identify top-selling products, and understand customer behavior to help improve business decisions.
